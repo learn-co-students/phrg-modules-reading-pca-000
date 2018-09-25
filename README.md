@@ -276,4 +276,8 @@ If you have a module whose methods you would like to be used in another class as
 
 If you want a module's methods to be used in another class as __class methods__, you must __extend__ the module.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-modules-reading/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-modules-reading/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Modules and Mixins in Ruby</p>
